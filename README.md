@@ -6,7 +6,7 @@
 Hello!👋🏻 <br>I'm Sandhya Pandey, a curious coder and a Computer Science undergrad with a passion for coding and turning creative ideas into impactful tech solutions.<br><br>I’ve spent the last couple of years diving deep into the MERN stack — Mongodb, Express.js, React, and Node.js — and it’s become my go-to toolbox for bringing projects to life. Whether it's designing sleek, responsive user interfaces or writing robust logic, I genuinely enjoy every part of the development process. From building real-time multiplayer games to full-stack web apps, I’m always up for creating something fun, functional, and user-first.<br><br>I’m all about learning together, creating with purpose, and lifting others as we rise. <br>Whether it’s collaborating on an exciting project, bouncing around new ideas, or simply geeking out over great code — I’m here for it!<br><br>Let’s connect, collaborate, and make amazing things happen. 🚀
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandhya-pandey-a662a3363/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:186sndy@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-pandey-a662a3363/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:186sndy@gmail.com) 
 
 
 # 💻 Tech Stack:

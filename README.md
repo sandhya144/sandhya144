@@ -1,16 +1,40 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sandhya+Pandey+%F0%9F%91%8B;MERN+Stack+Developer;Building+real-time+%26+full-stack+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+</a> -->
 
 </div>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&width=1200&height=230&color=0:0A0F2C,20:16235B,45:3B1D78,70:8B1E7A,100:FF5E62&text=Sandhya%20Pandey&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&animation=fadeIn"/>
+
 <br>
 
-## 🐍 Contribution Snake Graph
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=820&lines=Building+scalable+MERN+applications...;Creating+AI-powered+web+solutions...;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Competitive+Programmer+%7C+DSA+Enthusiast;Always+Learning.+Always+Building.+%F0%9F%9A%80"/>
+
+<br><br>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=sandhya144&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sandhya144?style=for-the-badge&color=0891b2"/>
+<img src="https://img.shields.io/github/stars/sandhya144?affiliations=OWNER&style=for-the-badge&color=facc15"/>
+</p>
+
+<h3>
+💡 Crafting elegant solutions with clean code and modern technologies
+</h3>
+
+</div>
+
+
+
+<br>
+
+## 📶 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sandhya144/sandhya144/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -181,6 +205,10 @@ I'm a curious coder and Computer Science undergrad who loves turning creative id
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sandhya144&style=for-the-badge&color=blueviolet)](https://github.com/sandhya144)
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" /> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0A0F2C,20:16235B,45:3B1D78,70:8B1E7A,100:FF5E62"/>
+
+
 
 </div>

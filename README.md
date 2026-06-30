@@ -1,29 +1,193 @@
-## Hi there 👋
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-# 💫 About Me:
-Hello!👋🏻 <br>I'm Sandhya Pandey, a curious coder and a Computer Science undergrad with a passion for coding and turning creative ideas into impactful tech solutions.<br><br>I’ve spent the last couple of years diving deep into the MERN stack — Mongodb, Express.js, React, and Node.js — and it’s become my go-to toolbox for bringing projects to life. Whether it's designing sleek, responsive user interfaces or writing robust logic, I genuinely enjoy every part of the development process. From building real-time multiplayer games to full-stack web apps, I’m always up for creating something fun, functional, and user-first.<br><br>I’m all about learning together, creating with purpose, and lifting others as we rise. <br>Whether it’s collaborating on an exciting project, bouncing around new ideas, or simply geeking out over great code — I’m here for it!<br><br>Let’s connect, collaborate, and make amazing things happen. 🚀
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sandhya+Pandey+%F0%9F%91%8B;MERN+Stack+Developer;Building+real-time+%26+full-stack+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-pandey-a662a3363/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:186sndy@gmail.com) 
+</div>
+
+<br>
+
+## 🐍 Contribution Snake Graph
+
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/sandhya144/sandhya144/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div> -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sandhya144/sandhya144/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sandhya144/sandhya144/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Snake animation"
+    src="https://raw.githubusercontent.com/sandhya144/sandhya144/output/github-contribution-grid-snake.svg"
+  />
+</picture> 
 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<!-- <details>
+<summary>⚙️ How to enable the snake graph on your own profile (one-time setup)</summary>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandhya144&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sandhya144&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya144&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+
+1. In your `sandhya144/sandhya144` repo, go to **Settings → Actions → General** and make sure Actions are enabled.
+2. Create a file at `.github/workflows/snake.yml` with the following content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # runs every 6 hours
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: sandhya144
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit it, then run the workflow once manually from the **Actions** tab (`workflow_dispatch`). It will create an `output` branch holding the generated SVG.
+4. The image URL above will then render automatically — no further action needed, it refreshes every 6 hours.
+
+</details> -->
+
+<br>
+
+## 💫 About Me
+
+I'm a curious coder and Computer Science undergrad who loves turning creative ideas into impactful tech solutions. Over the past couple of years I've gone deep into the **MERN stack** — MongoDB, Express.js, React, and Node.js — and it's become my go-to toolbox for bringing projects to life.
+
+- 🔭 I'm currently building real-time multiplayer games and full-stack web apps
+- 🌱 I'm always leveling up my skills across the JS/TS ecosystem
+- 🤝 I'm open to collaborating on exciting, impactful projects
+- ⚡ Fun fact: I enjoy every part of the dev process — from sleek, responsive UI to robust backend logic
+- 📫 Reach me at **186sndy@gmail.com**
+
+<br>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sandhya-pandey-a662a3363/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:186sndy@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<br>
+
+## 💻 Tech Stack
+
+**Languages**
+<p align="left">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Frontend**
+<p align="left">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" />
+<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sandhya144&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya144&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhya144&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sandhya144&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sandhya144&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandhya144&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=sandhya144&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sandhya144&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</div>
+
+<br>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandhya144&theme=react-dark&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sandhya144&style=for-the-badge&color=blueviolet)](https://github.com/sandhya144)
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+
+</div>

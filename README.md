@@ -115,8 +115,9 @@ I'm a curious coder and Computer Science undergrad who loves turning creative id
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sandhya144&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya144&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-lovat-pi-97.vercel.app/api?username=sandhya144&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats-lovat-pi-97.vercel.app/api/top-langs/?username=sandhya144&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhya144&theme=radical&hide_border=true" />
 
@@ -124,18 +125,49 @@ I'm a curious coder and Computer Science undergrad who loves turning creative id
 
 <br>
 
-## 🏆 GitHub Trophies
+## GitHub Streak
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=sandhya144&theme=radical&hide_border=true" />
+</div>
+
+<br> 
+
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandhya144&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-</div>
+  <img src="https://github-profile-trophy-lac-six.vercel.app/?username=sandhya144&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+</div> --> 
+
+## 🔝 Top Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sandhya144/Zeptronics">
+        <img src="https://github-readme-stats-lovat-pi-97.vercel.app/api/pin/?username=sandhya144&repo=Zeptronics&theme=radical&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sandhya144/Feminine-Bot">
+        <img src="https://github-readme-stats-lovat-pi-97.vercel.app/api/pin/?username=sandhya144&repo=Feminine-Bot&theme=radical&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sandhya144/MockMate">
+        <img src="https://github-readme-stats-lovat-pi-97.vercel.app/api/pin/?username=sandhya144&repo=MockMate&theme=radical&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sandhya144/Portfolio">
+        <img src="https://github-readme-stats-lovat-pi-97.vercel.app/api/pin/?username=sandhya144&repo=Portfolio&theme=radical&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br>
-
-<!-- ## 🔝 Top Contributed Repositories
-
- <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sandhya144&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</div> -->
 
 ## 📈 Activity Graph
 

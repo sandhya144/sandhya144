@@ -6,15 +6,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sandhya+Pandey+%F0%9F%91%8B;MERN+Stack+Developer;Building+real-time+%26+full-stack+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a> -->
 
-</div>
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&width=1200&height=230&color=0:0A0F2C,20:16235B,45:3B1D78,70:8B1E7A,100:FF5E62&text=Sandhya%20Pandey&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&animation=fadeIn"/> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&width=1200&height=230&color=0:0A0F2C,20:16235B,45:3B1D78,70:8B1E7A,100:FF5E62&text=Sandhya%20Pandey&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=820&lines=Building+scalable+MERN+applications...;Creating+AI-powered+web+solutions...;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Competitive+Programmer+%7C+DSA+Enthusiast;Always+Learning.+Always+Building.+%F0%9F%9A%80"/>
+</div>
+
+<br>
+
+</div>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=820&lines=Building+scalable+MERN+applications...;Creating+AI-powered+web+solutions...;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Competitive+Programmer+%7C+DSA+Enthusiast;Always+Learning.+Always+Building.+%F0%9F%9A%80"/> 
 
 <br><br>
 

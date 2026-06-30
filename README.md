@@ -12,11 +12,11 @@
 
 ## 🐍 Contribution Snake Graph
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/sandhya144/sandhya144/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div> -->
+</div> 
 
-<picture>
+<!-- <picture>  for dark themed
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/sandhya144/sandhya144/output/github-contribution-grid-snake-dark.svg"
@@ -29,50 +29,14 @@
     alt="Snake animation"
     src="https://raw.githubusercontent.com/sandhya144/sandhya144/output/github-contribution-grid-snake.svg"
   />
-</picture> 
+</picture>  -->
 
 
 <!-- <details>
 <summary>⚙️ How to enable the snake graph on your own profile (one-time setup)</summary>
 
-<br>
-
 1. In your `sandhya144/sandhya144` repo, go to **Settings → Actions → General** and make sure Actions are enabled.
 2. Create a file at `.github/workflows/snake.yml` with the following content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: sandhya144
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 3. Commit it, then run the workflow once manually from the **Actions** tab (`workflow_dispatch`). It will create an `output` branch holding the generated SVG.
 4. The image URL above will then render automatically — no further action needed, it refreshes every 6 hours.
 
@@ -165,16 +129,13 @@ I'm a curious coder and Computer Science undergrad who loves turning creative id
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sandhya144&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
 </div>
-
 <br>
 
-## 🔝 Top Contributed Repositories
+<!-- ## 🔝 Top Contributed Repositories
 
-<div align="center">
+ <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=sandhya144&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</div>
-
-<br>
+</div> -->
 
 ## 📈 Activity Graph
 

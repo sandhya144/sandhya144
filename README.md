@@ -187,7 +187,7 @@ I'm a Computer Science undergraduate passionate about building scalable, user-fo
 
 <img height="165" src="https://github-readme-stats-lovat-pi-97.vercel.app/api/top-langs/?username=sandhya144&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhya144&theme=radical&hide_border=true" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhya144&theme=radical&hide_border=true" /> -->
 
 </div>
 
@@ -196,7 +196,7 @@ I'm a Computer Science undergraduate passionate about building scalable, user-fo
 ## GitHub Streak
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=sandhya144&theme=radical&hide_border=true" />
-</div>
+</div> 
 
 <br> 
 

@@ -193,7 +193,7 @@ I'm a Computer Science undergraduate passionate about building scalable, user-fo
 
 <br>
 
-## GitHub Streak
+## 🚀 GitHub Streak
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=sandhya144&theme=radical&hide_border=true" />
 </div> 
